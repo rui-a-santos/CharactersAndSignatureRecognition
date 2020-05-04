@@ -20,6 +20,6 @@ Once in the directory containing all files, an example of the python command to 
 python signatureLetters.py
 ```
 
-## Authors
+## Author
 
 * **Rui Santos** - [Rui Santos](https://github.com/ruipsantos)
