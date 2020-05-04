@@ -20,9 +20,6 @@ Once in the directory containing all files, an example of the python command to 
 python signatureLetters.py
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-
 ## Authors
 
 * **Rui Santos** - [Rui Santos](https://github.com/ruipsantos)
