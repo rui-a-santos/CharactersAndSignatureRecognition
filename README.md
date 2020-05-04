@@ -2,6 +2,8 @@
 
 Developed models using KNN and CNN to predict written and handwritten letters which are extracted from an imported pdf.  Also built a model for identifying unique handwritten signatures using KNN. Developed using the EMNIST and OCR dataset, as well as my own handwritten signature dataset.
 
+To read more information about the project, there is a .pptx poster available in the repository.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
